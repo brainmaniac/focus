@@ -13,7 +13,9 @@ alias focus="~/<path-from-home-to-the-files>/focus.sh"
 alias golive="~/<path-from-home-to-the-files>/golive.sh"
 ```
 
-4. Type `focus` in the terminal and follow the instructions
+4. Save and exit .bash_profile
+
+5. Type `focus` in the terminal and follow the instructions
 
 
 ## What will happen?
