@@ -21,3 +21,6 @@ alias golive="~/<path-from-home-to-the-files>/golive.sh"
 ## What will happen?
 
 As for now Calendar, alla finder windows, Slack and the mail client will go down for the set time.
+
+
+## Feel free to add stuff!! PRs are more than welcome
