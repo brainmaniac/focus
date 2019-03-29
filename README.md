@@ -2,7 +2,7 @@
 A way to close all attention demanding programs during a set period of time. When that period is over said programs open again.
 
 ## Recommended Installation
-1. Clone the repo (or or in any other way get the two files `focus.sh` and `golive.sh`) 
+1. Clone the repo (or or in any other way get the two files `focus.sh` and `golive.sh`) - make sure to keep them in the same folder.
 
 2. in CLI run `vim ~/.bash_profile && source ~/.bash_profile`
 
