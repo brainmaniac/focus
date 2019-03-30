@@ -1,5 +1,5 @@
 #!/bin/bash
-
+clear
 echo "How many minutes are you going to work?"
 read m
 
