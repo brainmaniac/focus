@@ -4,16 +4,22 @@ A way to close all attention demanding programs during a set period of time. Whe
 ## Recommended Installation
 1. Clone the repo (or or in any other way get the two files `focus.sh` and `golive.sh`) - make sure to keep them in the same folder.
 
-2. in CLI run `vim ~/.bash_profile && source ~/.bash_profile`
+----- OPTIONAL -----
+  2. in CLI run `vim ~/.bash_profile && source ~/.bash_profile`
 
-3. add these two lines to .bash_profile:
-```
-alias focus="~/<path-from-home-to-the-files>/focus.sh"
+  3. add these two lines to .bash_profile:
+  ```
+  alias focus="~/<path-from-home-to-the-files>/focus.sh"
 
-alias golive="~/<path-from-home-to-the-files>/golive.sh"
-```
+  alias toclose="~/<path-from-home-to-the-files>/to_close.sh"
 
-4. Save and exit .bash_profile
+  alias golive="~/<path-from-home-to-the-files>/go_live.sh"
+  ```
+
+  4. Save and exit .bash_profile
+--------------------
+5. Make sure the files have executable permission
+`chmod +x the_file_name`
 
 5. Type `focus` in the terminal and follow the instructions
 
