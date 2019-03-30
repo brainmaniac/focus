@@ -24,7 +24,7 @@ A way to close all attention demanding programs during a set period of time. Whe
 5. Make sure the files have executable permission
 `chmod +x the_file_name`
 
-5. Type `focus` in the terminal and follow the instructions
+5. If you followed the optional segment just type `focus` in the terminal and follow the instructions. Otherwise go to the folder containing the repo/files and run `./focus.sh`
 
 
 ## What will happen?
