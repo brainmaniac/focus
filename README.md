@@ -19,7 +19,8 @@ A way to close all attention demanding programs during a set period of time. Whe
 
   4. Save and exit .bash_profile
   
---------------------
+----- END OPTIONAL -----
+
 5. Make sure the files have executable permission
 `chmod +x the_file_name`
 
