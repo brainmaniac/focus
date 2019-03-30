@@ -8,7 +8,7 @@ A way to close all attention demanding programs during a set period of time. Whe
 
   2. in CLI run `vim ~/.bash_profile && source ~/.bash_profile`
 
-  3. add these two lines to .bash_profile:
+  3. add these lines to .bash_profile:
   ```
   alias focus="~/<path-from-home-to-the-files>/focus.sh"
 
