@@ -6,7 +6,7 @@ A way to close all attention demanding programs during a set period of time. Whe
 
 ----- OPTIONAL -----
 
-  2. in terminal run `vim ~/.bash_profile && source ~/.bash_profile`
+  2. in Terminal run `vim ~/.bash_profile && source ~/.bash_profile`
 
   3. add these lines to .bash_profile:
   ```
