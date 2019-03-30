@@ -5,6 +5,7 @@ A way to close all attention demanding programs during a set period of time. Whe
 1. Clone the repo (or or in any other way get the three files `focus.sh` , `to_close.sh` and `golive.sh`) - make sure to keep them in the same folder.
 
 ----- OPTIONAL -----
+
   2. in CLI run `vim ~/.bash_profile && source ~/.bash_profile`
 
   3. add these two lines to .bash_profile:
@@ -17,6 +18,7 @@ A way to close all attention demanding programs during a set period of time. Whe
   ```
 
   4. Save and exit .bash_profile
+  
 --------------------
 5. Make sure the files have executable permission
 `chmod +x the_file_name`
